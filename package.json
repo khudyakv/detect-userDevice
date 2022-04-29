@@ -1,0 +1,20 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Detect user device",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "detect",
+    "device"
+  ],
+  "author": "khudyakv",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
